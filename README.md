@@ -19,6 +19,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LanBorn&repo=Ln-vite-pinia&theme=tokyonight" />
 </a>
 </p>
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=LanBorn&theme=redical">
+</p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 - 🔭 &nbsp; 大家好，我是LanBorn。
