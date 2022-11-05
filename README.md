@@ -1,10 +1,39 @@
-- 👋  你好啊，各位Coder, 我是Lanborn
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+- 🔭 &nbsp; 大家好，我是LanBorn。
 - 🤔 &nbsp; 非常欢迎你来访问我的Github。
 - 🎓 &nbsp; 尽管这里可能并没有你需要的项目。
 - 💼 &nbsp; 但是你的到来会使这里变得蓬荜生辉。
 - 🌱 &nbsp; 既然已经来了，请不要吝啬你手里的Star。
 - ✍️ &nbsp; Fork到自己的仓库，否则你可能会失去它。
 - ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。 
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+       <a href="http://blog.lanboc.cn">博客</a>
+       <br><br><br>
+       Study Record
+      </td>
+      <td width="25%" align="center">
+       <a href="https://juejin.cn/user/3241821901952701">掘金</a>
+       <br><br><br>
+       技术文章
+     </td>
+     <td width="25%" align="center">
+       <a href="https://game.scalerwang.com">聊天室</a>
+      <br><br><br>
+       来聊一聊吧~
+     </td>
+      <td width="25%" align="center">
+       <a href="https://blog.csdn.net/qq_50918427?spm=1030.2200.3001.5343">CSDN</a>
+       <br><br><br>
+       爬坑日记
+     </td>
+    </tr>
+  </tbody>
+</table>
 
 <!---
 Lanborn/Lanborn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,15 +65,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LanBorn&repo=Ln-vite-pinia&theme=tokyonight" />
 </a>
 </p>
-
-- 🔭 &nbsp; 大家好，我是LanBorn。
-- 	🤔 &nbsp; 非常欢迎你来访问我的Github。
-- 🎓 &nbsp; 尽管这里可能并没有你需要的项目。
-- 💼 &nbsp; 但是你的到来会使这里变得蓬荜生辉。
-- 🌱 &nbsp; 既然已经来了，请不要吝啬你手里的Star。
-- ✍️ &nbsp; Fork到自己的仓库，否则你可能会失去它。
-- ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。 
-
 
 
 <p align = "center">
