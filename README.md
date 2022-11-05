@@ -1,3 +1,5 @@
+<h2> Hey there! I'm LanBorn.👋</h2>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 - 🔭 &nbsp; 大家好，我是LanBorn。
@@ -34,15 +36,10 @@
     </tr>
   </tbody>
 </table>
-
 <!---
 Lanborn/Lanborn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
-<h2> Hey there! I'm LanBorn.👋</h2>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=wangscaler&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
