@@ -26,8 +26,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/Lanborn/Vueprs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LanBorn&repo=Vueprs&theme=tokyonight" />
 </a>
-<a href="https://github.com/Lanborn/javafx_onlineshop ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LanBorn&repo=javafx-onlineshop&theme=tokyonight" />
+<a href="https://github.com/Lanborn/CmsAdmin ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LanBorn&repo=CmsAdmin&theme=tokyonight" />
 </a>
 <a href="https://github.com/Lanborn/cloud_music">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LanBorn&repo=cloud_music&theme=tokyonight" />
