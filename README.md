@@ -1,5 +1,24 @@
 <h2> Hey there! I'm LanBorn.👋</h2>
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=LanBorn&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LanBorn&theme=tokyonight">
+</p>
+
+<p align = "center">
+<a href="https://github.com/Lanborn/Vueprs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LanBorn&repo=Vueprs&theme=tokyonight" />
+</a>
+<a href="https://github.com/Lanborn/CmsAdmin ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LanBorn&repo=CmsAdmin&theme=tokyonight" />
+</a>
+<a href="https://github.com/Lanborn/cloud_music">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LanBorn&repo=cloud_music&theme=tokyonight" />
+</a>
+<a href="https://github.com/Lanborn/Ln-vite-pinia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LanBorn&repo=Ln-vite-pinia&theme=tokyonight" />
+</a>
+</p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 - 🔭 &nbsp; 大家好，我是LanBorn。
@@ -36,33 +55,6 @@
     </tr>
   </tbody>
 </table>
-<!---
-Lanborn/Lanborn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=wangscaler&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wangscaler&theme=tokyonight">
-</p>
-
-
-
-<p align = "center">
-<a href="https://github.com/Lanborn/Vueprs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LanBorn&repo=Vueprs&theme=tokyonight" />
-</a>
-<a href="https://github.com/Lanborn/CmsAdmin ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LanBorn&repo=CmsAdmin&theme=tokyonight" />
-</a>
-<a href="https://github.com/Lanborn/cloud_music">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LanBorn&repo=cloud_music&theme=tokyonight" />
-</a>
-<a href="https://github.com/Lanborn/Ln-vite-pinia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LanBorn&repo=Ln-vite-pinia&theme=tokyonight" />
-</a>
-</p>
-
 
 <p align = "center">
   <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=LanBorn&theme=tokyonight" width="45%">
